@@ -3,3 +3,9 @@ body {
     background-color: #070808;
    
 }
+
+.pattern-square {
+    filter: hue-rotate(234deg);
+    z-index: -1;
+}
+
